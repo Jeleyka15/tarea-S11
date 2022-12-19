@@ -1,5 +1,5 @@
-const resultado = document.getElementById("pokedex")
-const resultadoTabla = document.getElementById("pokedexTable")
+const resultado = document.getElementById("resultado")
+const resultadoTabla = document.getElementById("resultadoTable")
 
 let pokemons = [
     {id: 1, name: "charmander", type: "fire", base_damage: 10, base_hp: 12, speed: 30},
